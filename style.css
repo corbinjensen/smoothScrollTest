@@ -7,14 +7,6 @@
   scroll-behavior: smooth;
 }
 
-.noScroll {
-  background-color: red;
-  height: 150%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 img {
   max-width: 200px;
   height: auto;
